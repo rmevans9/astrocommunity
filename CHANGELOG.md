@@ -1,5 +1,12 @@
 # Changelog
 
+## [8.1.2](https://github.com/AstroNvim/astrocommunity/compare/v8.1.1...v8.1.2) (2024-04-25)
+
+
+### Bug Fixes
+
+* **tailwindcss:** fix TailwindCSS pack not loading when using tailwindcss-rails Ruby Gem ([#915](https://github.com/AstroNvim/astrocommunity/issues/915)) ([6626739](https://github.com/AstroNvim/astrocommunity/commit/6626739dd67999dff6478441177383fbec86df53))
+
 ## [8.1.1](https://github.com/AstroNvim/astrocommunity/compare/v8.1.0...v8.1.1) (2024-04-25)
 
 
